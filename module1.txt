@@ -1,1 +1,5 @@
-﻿eldar040503@gmail.com,123
+﻿Valge?;Valge
+Sigma?;Sigma
+Kell?;kell
+aeg?;aeg
+Python?;Python
